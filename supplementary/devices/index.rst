@@ -37,6 +37,7 @@ All of these should only be document in the exact same way here and **only an ov
    yuga
    taoshan
    Z00L
+   onclite
    
 
 How to document
@@ -632,6 +633,25 @@ Devices
      - A-GPS, GLONASS, BDS
      - Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2
      - IP68 dust/water resistant (up to 1.5m for 30 mins)
+     * - :doc: `Xiaomi Redmi 7 <onclite>`
+     - onclite
+     - Halium 9 working. Boots, runs UT, graphics, light, vibration, wifi work, mobile data and other
+     - Not work fingerprint
+     - v3.18.14
+     - Qualcomm Snapdragon 632 (14 nm) 
+     - (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver) 
+     - Adreno 506
+     - 3/2 GB
+     - 32 GM / 16 GB
+     - Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot; Bluetooth 4.2, A2DP, LE, aptX; microUSB 2.0
+     - 12 Mp, f/2.2, 1.25µm, PDAF; Dual video call, Auto-HDR; Video 1080p@60fps
+     - 8 Mp, f/2.2, 1.25µm, PDAF, Dual Pixel PDAF, OIS; LED flash, auto-HDR, panorama; Video 720p@30fps
+     - Non-removable Li-Ion 4000 mAh battery; Fast charging 18W
+     - Loudspeaker, 3.5mm jack, 24-bit/192kHz audio
+     - Ips capacitive touchscreen 
+     - 6.28 inches, 1520 x 720 pixels, 19:9 ratio (~397 ppi density), 16M colors, Corning Gorilla Glass 5
+     - A-GPS, GLONASS, BDS
+     - Fingerprint (front-mounted), accelerometer, gyro, proximity, compass
       
 Sources
 ^^^^^^^
@@ -789,3 +809,9 @@ Samsung Galaxy S7
 * `Samsung Galaxy S7 GSMArena <https://www.gsmarena.com/samsung_galaxy_s7-7821.php>`_
 * `Samsung Galaxy S7 Exynos DeviceSpecifications <https://www.devicespecifications.com/en/model/63063a47>`_
 * `Samsung Galaxy S7 SD820 DeviceSpecifications <https://www.devicespecifications.com/en/model/16f73a49>`_
+
+Xiaomi redmi 7
+~~~~~~~~~~~~~~~~~
+* `Redmi 7 Website <https://mistore.pk/pages/redmi-7-3gb-32gb-eclipse-black>`_
+* `Redmi 7 GmsArena <https://www.gsmarena.com/xiaomi_redmi_7-9498.php>`_
+
